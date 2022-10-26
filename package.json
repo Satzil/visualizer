@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "homepage": "http://Satzil.github.io/react_deploy_gh",
+  "homepage": "https://Satzil.github.io/sorting_visualizer",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
