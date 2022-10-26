@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes example{
+    0% {background-color:white;}
+    
+    100% {background-color:white;}
+}
+
+.slidecontainer {
+  width: 100%;
+}
