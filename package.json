@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "homepage": "https://Satzil.github.io/react_deploy_gh",
+  "homepage": "http://Satzil.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
