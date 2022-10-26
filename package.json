@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "homepage": "https://Satzil.github.io/sorting_visualizer",
+  "homepage": "https://satzil.github.io/sorting_visualizer",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
